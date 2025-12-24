@@ -2,3 +2,5 @@ create private repo
 connect to the platform
 
 check the new set up
+
+implement obfuscate
