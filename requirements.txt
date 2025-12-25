@@ -6,3 +6,4 @@ python-Levenshtein
 numpy
 pandas
 matplotlib
+ipykernel
