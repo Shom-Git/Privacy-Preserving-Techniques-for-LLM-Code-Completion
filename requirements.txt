@@ -1,0 +1,8 @@
+torch
+transformers>=4.44.0
+datasets
+rouge-score
+python-Levenshtein
+numpy
+pandas
+matplotlib
