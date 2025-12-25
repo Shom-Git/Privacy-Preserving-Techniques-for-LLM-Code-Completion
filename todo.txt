@@ -2,3 +2,7 @@ create private repo
 connect to the platform
 
 check the new set up
+
+implement obfuscate
+
+implement code generation for some models, check one more model for better analysis since the new high obfuscation fails
