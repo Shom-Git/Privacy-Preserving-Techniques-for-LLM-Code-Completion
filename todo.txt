@@ -4,3 +4,5 @@ connect to the platform
 check the new set up
 
 implement obfuscate
+
+implement code generation for some models
